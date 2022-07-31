@@ -1,36 +1,43 @@
-.outline{
-    border: 2px solid rgb(255, 55, 0);
-    background-color: #fff;
-    padding:1rem 2rem;
-    border-radius: 48px;
+a {
+  text-decoration: none;
+  color: #000;
 }
-section{
-    padding-top: 100px;
+.Mybtn {
+  border: 2px solid rgb(255, 55, 0);
+  background-color: #fff;
+  padding: 1rem 2rem;
+  border-radius: 48px;
 }
-.mainTitle{
-    font-weight: bolder;
-    font-size: 5rem;
+.Mybtn:hover {
+  color: #ff3700;
 }
-.input-group{
-    background-color:rgba(0, 0, 0, 0.064);
-    padding:12px;
-    border-radius: 48px;
+section {
+  padding-top: 100px;
 }
-.form-control{
-    background-color:transparent;
-    border:none
+.mainTitle {
+  font-weight: bolder;
+  font-size: 5rem;
 }
-.form-control:focus{
-    background-color:transparent;
-    box-shadow: none;
+.input-group {
+  background-color: rgba(0, 0, 0, 0.064);
+  padding: 12px;
+  border-radius: 48px;
 }
-#button-addon2{
-    border:none;
-    background-color: rgb(255, 55, 0);
-    color: white;
-    padding:16px 24px;
-    border-radius: 30px;
+.form-control {
+  background-color: transparent;
+  border: none;
 }
-img{
-    width: 100%;
+.form-control:focus {
+  background-color: transparent;
+  box-shadow: none;
+}
+#button-addon2 {
+  border: none;
+  background-color: rgb(255, 55, 0);
+  color: white;
+  padding: 16px 24px;
+  border-radius: 30px;
+}
+img {
+  width: 100%;
 }
