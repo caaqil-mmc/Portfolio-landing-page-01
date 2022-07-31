@@ -1,0 +1,36 @@
+.outline{
+    border: 2px solid rgb(255, 55, 0);
+    background-color: #fff;
+    padding:1rem 2rem;
+    border-radius: 48px;
+}
+section{
+    padding-top: 100px;
+}
+.mainTitle{
+    font-weight: bolder;
+    font-size: 5rem;
+}
+.input-group{
+    background-color:rgba(0, 0, 0, 0.064);
+    padding:12px;
+    border-radius: 48px;
+}
+.form-control{
+    background-color:transparent;
+    border:none
+}
+.form-control:focus{
+    background-color:transparent;
+    box-shadow: none;
+}
+#button-addon2{
+    border:none;
+    background-color: rgb(255, 55, 0);
+    color: white;
+    padding:16px 24px;
+    border-radius: 30px;
+}
+img{
+    width: 100%;
+}
